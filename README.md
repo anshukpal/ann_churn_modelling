@@ -11,3 +11,5 @@ by one more, accuracy increased to 80%
 Second, tried Evaluating the artifical neural network using KerasClassifier and cross validation score of sickit learn. The idea was to evaluate if the variance of the model accuracy was high or not and if its changing based on datset and what is the average accuracy across 10 folds of training data and what is the variance. That would essentially mean, n epochs would for every fold.
 
 Then also tried to have Dropout Regularization to reduce overfitting if needed. (used in the modelcomparison code)
+
+Tuning of ANN Models using Grid Search Mechanism, what parameters to be best tuned for best accuracy based on kfold mechanism on tr
